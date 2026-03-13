@@ -20,4 +20,4 @@ if missing:
 else:
     print("No variables missing")
 
-    print("total missing values : ")
+   
